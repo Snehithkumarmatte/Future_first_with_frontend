@@ -19,7 +19,6 @@ visualize results, and download outputs.
 - 📈 Interactive charts (Actual vs Predicted)
 - ⬇️ Downloadable results
 - 🔁 Same backend code reusable as `.py` or `.ipynb`
-- ❌ No data leakage (academically correct)
 
 ---
 
@@ -163,8 +162,7 @@ jupytext --to notebook model.py
 
 ## 👨‍💻 Author
 
-Your Name  
-Machine Learning / Data Science Engineer
+snehith kumar matte
 
 ---
 
